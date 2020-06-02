@@ -1,0 +1,183 @@
+{
+    "0": {
+        "Name": "Doomking Balerdroch",
+        "CardType": "MONSTER",
+        "HasEffect": "EFFECT",
+        "Level": "8",
+        "MonsterType": "DARK",
+        "Attribute": "ZOMBIE",
+        "IsTuner": "NON TUNER",
+        "IsHandtrap": "NO HANDTRAP"
+    },
+    "1": {
+        "Name": "Jack-o-Bolan",
+        "CardType": "MONSTER",
+        "HasEffect": "EFFECT",
+        "Level": "7",
+        "MonsterType": "FIRE",
+        "Attribute": "ZOMBIE",
+        "IsTuner": "NON TUNER",
+        "IsHandtrap": "NO HANDTRAP"
+    },
+    "2": {
+        "Name": "Vampire Freullein",
+        "CardType": "MONSTER",
+        "HasEffect": "EFFECT",
+        "Level": "5",
+        "MonsterType": "DARK",
+        "Attribute": "ZOMBIE",
+        "IsTuner": "NON TUNER",
+        "IsHandtrap": "NO HANDTRAP"
+    },
+    "3": {
+        "Name": "Glow-Up Bloom",
+        "CardType": "MONSTER",
+        "HasEffect": "EFFECT",
+        "Level": "1",
+        "MonsterType": "DARK",
+        "Attribute": "ZOMBIE",
+        "IsTuner": "TUNER",
+        "IsHandtrap": "NO HANDTRAP"
+    },
+    "4": {
+        "Name": "Uni-Zombie",
+        "CardType": "MONSTER",
+        "HasEffect": "EFFECT",
+        "Level": "3",
+        "MonsterType": "DARK",
+        "Attribute": "ZOMBIE",
+        "IsTuner": "TUNER",
+        "IsHandtrap": "NO HANDTRAP"
+    },
+    "5": {
+        "Name": "Necroworld Banshee",
+        "CardType": "MONSTER",
+        "HasEffect": "EFFECT",
+        "Level": "4",
+        "MonsterType": "DARK",
+        "Attribute": "ZOMBIE",
+        "IsTuner": "NON TUNER",
+        "IsHandtrap": "NO HANDTRAP"
+    },
+    "6": {
+        "Name": "Shiranui Solitaire",
+        "CardType": "MONSTER",
+        "HasEffect": "EFFECT",
+        "Level": "4",
+        "MonsterType": "FIRE",
+        "Attribute": "ZOMBIE",
+        "IsTuner": "NON TUNER",
+        "IsHandtrap": "NO HANDTRAP"
+    },
+    "7": {
+        "Name": "Mezuki",
+        "CardType": "MONSTER",
+        "HasEffect": "EFFECT",
+        "Level": "4",
+        "MonsterType": "EARTH",
+        "Attribute": "ZOMBIE",
+        "IsTuner": "NON TUNER",
+        "IsHandtrap": "NO HANDTRAP"
+    },
+    "8": {
+        "Name": "Gozuki",
+        "CardType": "MONSTER",
+        "HasEffect": "EFFECT",
+        "Level": "4",
+        "MonsterType": "EARTH",
+        "Attribute": "ZOMBIE",
+        "IsTuner": "NON TUNER",
+        "IsHandtrap": "NO HANDTRAP"
+    },
+    "9": {
+        "Name": "Maurand Captain",
+        "CardType": "MONSTER",
+        "HasEffect": "EFFECT",
+        "Level": "3",
+        "MonsterType": "EARTH",
+        "Attribute": "WARRIOR",
+        "IsTuner": "NON TUNER",
+        "IsHandtrap": "NO HANDTRAP"
+    },
+    "10": {
+        "Name": "Goblindbergh",
+        "CardType": "MONSTER",
+        "HasEffect": "EFFECT",
+        "Level": "4",
+        "MonsterType": "EARTH",
+        "Attribute": "WARRIOR",
+        "IsTuner": "NON TUNER",
+        "IsHandtrap": "NO HANDTRAP"
+    },
+    "11": {
+        "Name": "Defrag Dragon",
+        "CardType": "MONSTER",
+        "HasEffect": "EFFECT",
+        "Level": "3",
+        "MonsterType": "DARK",
+        "Attribute": "DRAGON",
+        "IsTuner": "NON TUNER",
+        "IsHandtrap": "NO HANDTRAP"
+    },
+    "12": {
+        "Name": "The Winged Dragon Of Ra - Sphere Mode",
+        "CardType": "MONSTER",
+        "HasEffect": "EFFECT",
+        "Level": "10",
+        "MonsterType": "DIVINE",
+        "Attribute": "DIVINE-BEAST",
+        "IsTuner": "NON TUNER",
+        "IsHandtrap": "NO HANDTRAP"
+    },
+    "13": {
+        "Name": "Dragon Buster Destruction Sword",
+        "CardType": "MONSTER",
+        "HasEffect": "EFFECT",
+        "Level": "2",
+        "MonsterType": "DARK",
+        "Attribute": "Dragon",
+        "IsTuner": "TUNER",
+        "IsHandtrap": "NO HANDTRAP"
+    },
+    "14": {
+        "Name": "Ash Blossom & Joyous Spring",
+        "CardType": "MONSTER",
+        "HasEffect": "EFFECT",
+        "Level": "3",
+        "MonsterType": "DARK",
+        "Attribute": "ZOMBIE",
+        "IsTuner": "TUNER",
+        "IsHandtrap": "HANDTRAP"
+    },
+    "15": {
+        "Name": "Zombie World",
+        "CardType": "SPELL",
+        "SpellType": "FIELD"
+    },
+    "16": {
+        "Name": "Monster Reborn",
+        "CardType": "SPELL",
+        "SpellType": "NORMAL"
+    },
+    "17": {
+        "Name": "Foolish Burial",
+        "CardType": "SPELL",
+        "SpellType": "NORMAL"
+    },
+    "18": {
+        "Name": "Super Polymerization",
+        "CardType": "SPELL",
+        "SpellType": "QUICK-PLAY"
+    },
+    "19": {
+        "Name": "Called By The Grave",
+        "CardType": "SPELL",
+        "SpellType": "QUICK-PLAY"
+    },
+    "20": {
+        "Name": "Rivalry of Warlords",
+        "CardType": "TRAP",
+        "SpellType": "CONTINUOUS",
+        "IsHandtrap": "NO HANDTRAP"
+    }
+}
