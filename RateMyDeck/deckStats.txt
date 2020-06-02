@@ -1,0 +1,738 @@
+Deck loaded from: Resources/Decks/Deck.txt
+Combos loaded from: Resources/Combos/Combos.txt
+
+__________________________________________________________Hand #0
+
+  -->  |  Monsters ratio:    60.0%
+  -->  |  Spells ratio:      40.0%
+  -->  |  Traps ratio:       0.0%
+  -->  |  Handtraps ratio:   20.0%
+  -->  |  Number of combos:  0
+__________________________________________________________Hand #1
+
+  -->  |  Monsters ratio:    60.0%
+  -->  |  Spells ratio:      40.0%
+  -->  |  Traps ratio:       0.0%
+  -->  |  Handtraps ratio:   10.0%
+  -->  |  Number of combos:  1
+__________________________________________________________Hand #2
+
+  -->  |  Monsters ratio:    66.67%
+  -->  |  Spells ratio:      33.33%
+  -->  |  Traps ratio:       0.0%
+  -->  |  Handtraps ratio:   6.67%
+  -->  |  Number of combos:  0
+__________________________________________________________Hand #3
+
+  -->  |  Monsters ratio:    70.0%
+  -->  |  Spells ratio:      30.0%
+  -->  |  Traps ratio:       0.0%
+  -->  |  Handtraps ratio:   5.0%
+  -->  |  Number of combos:  0
+__________________________________________________________Hand #4
+
+  -->  |  Monsters ratio:    60.0%
+  -->  |  Spells ratio:      36.0%
+  -->  |  Traps ratio:       4.0%
+  -->  |  Handtraps ratio:   4.0%
+  -->  |  Number of combos:  0
+__________________________________________________________Hand #5
+
+  -->  |  Monsters ratio:    60.0%
+  -->  |  Spells ratio:      36.67%
+  -->  |  Traps ratio:       3.33%
+  -->  |  Handtraps ratio:   6.67%
+  -->  |  Number of combos:  0
+__________________________________________________________Hand #6
+
+  -->  |  Monsters ratio:    62.86%
+  -->  |  Spells ratio:      34.29%
+  -->  |  Traps ratio:       2.86%
+  -->  |  Handtraps ratio:   5.71%
+  -->  |  Number of combos:  0
+__________________________________________________________Hand #7
+
+  -->  |  Monsters ratio:    60.0%
+  -->  |  Spells ratio:      35.0%
+  -->  |  Traps ratio:       5.0%
+  -->  |  Handtraps ratio:   5.0%
+  -->  |  Number of combos:  0
+__________________________________________________________Hand #8
+
+  -->  |  Monsters ratio:    62.22%
+  -->  |  Spells ratio:      33.33%
+  -->  |  Traps ratio:       4.44%
+  -->  |  Handtraps ratio:   4.44%
+  -->  |  Number of combos:  0
+__________________________________________________________Hand #9
+
+  -->  |  Monsters ratio:    62.0%
+  -->  |  Spells ratio:      32.0%
+  -->  |  Traps ratio:       6.0%
+  -->  |  Handtraps ratio:   4.0%
+  -->  |  Number of combos:  0
+__________________________________________________________Hand #10
+
+  -->  |  Monsters ratio:    61.82%
+  -->  |  Spells ratio:      29.09%
+  -->  |  Traps ratio:       9.09%
+  -->  |  Handtraps ratio:   3.64%
+  -->  |  Number of combos:  1
+__________________________________________________________Hand #11
+
+  -->  |  Monsters ratio:    61.67%
+  -->  |  Spells ratio:      30.0%
+  -->  |  Traps ratio:       8.33%
+  -->  |  Handtraps ratio:   5.0%
+  -->  |  Number of combos:  0
+__________________________________________________________Hand #12
+
+  -->  |  Monsters ratio:    63.08%
+  -->  |  Spells ratio:      29.23%
+  -->  |  Traps ratio:       7.69%
+  -->  |  Handtraps ratio:   4.62%
+  -->  |  Number of combos:  2
+__________________________________________________________Hand #13
+
+  -->  |  Monsters ratio:    62.86%
+  -->  |  Spells ratio:      30.0%
+  -->  |  Traps ratio:       7.14%
+  -->  |  Handtraps ratio:   4.29%
+  -->  |  Number of combos:  0
+__________________________________________________________Hand #14
+
+  -->  |  Monsters ratio:    61.33%
+  -->  |  Spells ratio:      29.33%
+  -->  |  Traps ratio:       9.33%
+  -->  |  Handtraps ratio:   4.0%
+  -->  |  Number of combos:  0
+__________________________________________________________Hand #15
+
+  -->  |  Monsters ratio:    62.5%
+  -->  |  Spells ratio:      28.75%
+  -->  |  Traps ratio:       8.75%
+  -->  |  Handtraps ratio:   3.75%
+  -->  |  Number of combos:  0
+__________________________________________________________Hand #16
+
+  -->  |  Monsters ratio:    61.18%
+  -->  |  Spells ratio:      28.24%
+  -->  |  Traps ratio:       10.59%
+  -->  |  Handtraps ratio:   3.53%
+  -->  |  Number of combos:  0
+__________________________________________________________Hand #17
+
+  -->  |  Monsters ratio:    61.11%
+  -->  |  Spells ratio:      27.78%
+  -->  |  Traps ratio:       11.11%
+  -->  |  Handtraps ratio:   3.33%
+  -->  |  Number of combos:  0
+__________________________________________________________Hand #18
+
+  -->  |  Monsters ratio:    61.05%
+  -->  |  Spells ratio:      28.42%
+  -->  |  Traps ratio:       10.53%
+  -->  |  Handtraps ratio:   3.16%
+  -->  |  Number of combos:  0
+__________________________________________________________Hand #19
+
+  -->  |  Monsters ratio:    61.0%
+  -->  |  Spells ratio:      28.0%
+  -->  |  Traps ratio:       11.0%
+  -->  |  Handtraps ratio:   3.0%
+  -->  |  Number of combos:  0
+__________________________________________________________Hand #20
+
+  -->  |  Monsters ratio:    60.0%
+  -->  |  Spells ratio:      29.52%
+  -->  |  Traps ratio:       10.48%
+  -->  |  Handtraps ratio:   2.86%
+  -->  |  Number of combos:  0
+__________________________________________________________Hand #21
+
+  -->  |  Monsters ratio:    60.91%
+  -->  |  Spells ratio:      29.09%
+  -->  |  Traps ratio:       10.0%
+  -->  |  Handtraps ratio:   2.73%
+  -->  |  Number of combos:  0
+__________________________________________________________Hand #22
+
+  -->  |  Monsters ratio:    61.74%
+  -->  |  Spells ratio:      28.7%
+  -->  |  Traps ratio:       9.57%
+  -->  |  Handtraps ratio:   3.48%
+  -->  |  Number of combos:  0
+__________________________________________________________Hand #23
+
+  -->  |  Monsters ratio:    61.67%
+  -->  |  Spells ratio:      28.33%
+  -->  |  Traps ratio:       10.0%
+  -->  |  Handtraps ratio:   3.33%
+  -->  |  Number of combos:  0
+__________________________________________________________Hand #24
+
+  -->  |  Monsters ratio:    63.2%
+  -->  |  Spells ratio:      27.2%
+  -->  |  Traps ratio:       9.6%
+  -->  |  Handtraps ratio:   4.8%
+  -->  |  Number of combos:  0
+__________________________________________________________Hand #25
+
+  -->  |  Monsters ratio:    62.31%
+  -->  |  Spells ratio:      28.46%
+  -->  |  Traps ratio:       9.23%
+  -->  |  Handtraps ratio:   4.62%
+  -->  |  Number of combos:  0
+__________________________________________________________Hand #26
+
+  -->  |  Monsters ratio:    63.7%
+  -->  |  Spells ratio:      27.41%
+  -->  |  Traps ratio:       8.89%
+  -->  |  Handtraps ratio:   4.44%
+  -->  |  Number of combos:  0
+__________________________________________________________Hand #27
+
+  -->  |  Monsters ratio:    63.57%
+  -->  |  Spells ratio:      27.86%
+  -->  |  Traps ratio:       8.57%
+  -->  |  Handtraps ratio:   4.29%
+  -->  |  Number of combos:  0
+__________________________________________________________Hand #28
+
+  -->  |  Monsters ratio:    62.76%
+  -->  |  Spells ratio:      28.28%
+  -->  |  Traps ratio:       8.97%
+  -->  |  Handtraps ratio:   4.83%
+  -->  |  Number of combos:  0
+__________________________________________________________Hand #29
+
+  -->  |  Monsters ratio:    62.0%
+  -->  |  Spells ratio:      28.67%
+  -->  |  Traps ratio:       9.33%
+  -->  |  Handtraps ratio:   4.67%
+  -->  |  Number of combos:  0
+__________________________________________________________Hand #30
+
+  -->  |  Monsters ratio:    62.58%
+  -->  |  Spells ratio:      28.39%
+  -->  |  Traps ratio:       9.03%
+  -->  |  Handtraps ratio:   5.16%
+  -->  |  Number of combos:  0
+__________________________________________________________Hand #31
+
+  -->  |  Monsters ratio:    63.12%
+  -->  |  Spells ratio:      28.12%
+  -->  |  Traps ratio:       8.75%
+  -->  |  Handtraps ratio:   5.0%
+  -->  |  Number of combos:  0
+__________________________________________________________Hand #32
+
+  -->  |  Monsters ratio:    62.42%
+  -->  |  Spells ratio:      28.48%
+  -->  |  Traps ratio:       9.09%
+  -->  |  Handtraps ratio:   4.85%
+  -->  |  Number of combos:  0
+__________________________________________________________Hand #33
+
+  -->  |  Monsters ratio:    62.35%
+  -->  |  Spells ratio:      28.82%
+  -->  |  Traps ratio:       8.82%
+  -->  |  Handtraps ratio:   5.29%
+  -->  |  Number of combos:  0
+__________________________________________________________Hand #34
+
+  -->  |  Monsters ratio:    62.86%
+  -->  |  Spells ratio:      28.0%
+  -->  |  Traps ratio:       9.14%
+  -->  |  Handtraps ratio:   5.71%
+  -->  |  Number of combos:  0
+__________________________________________________________Hand #35
+
+  -->  |  Monsters ratio:    62.78%
+  -->  |  Spells ratio:      28.33%
+  -->  |  Traps ratio:       8.89%
+  -->  |  Handtraps ratio:   5.56%
+  -->  |  Number of combos:  0
+__________________________________________________________Hand #36
+
+  -->  |  Monsters ratio:    62.7%
+  -->  |  Spells ratio:      28.65%
+  -->  |  Traps ratio:       8.65%
+  -->  |  Handtraps ratio:   6.49%
+  -->  |  Number of combos:  0
+__________________________________________________________Hand #37
+
+  -->  |  Monsters ratio:    63.16%
+  -->  |  Spells ratio:      28.42%
+  -->  |  Traps ratio:       8.42%
+  -->  |  Handtraps ratio:   6.32%
+  -->  |  Number of combos:  0
+__________________________________________________________Hand #38
+
+  -->  |  Monsters ratio:    63.59%
+  -->  |  Spells ratio:      28.21%
+  -->  |  Traps ratio:       8.21%
+  -->  |  Handtraps ratio:   6.67%
+  -->  |  Number of combos:  0
+__________________________________________________________Hand #39
+
+  -->  |  Monsters ratio:    64.0%
+  -->  |  Spells ratio:      28.0%
+  -->  |  Traps ratio:       8.0%
+  -->  |  Handtraps ratio:   7.0%
+  -->  |  Number of combos:  0
+__________________________________________________________Hand #40
+
+  -->  |  Monsters ratio:    63.9%
+  -->  |  Spells ratio:      27.8%
+  -->  |  Traps ratio:       8.29%
+  -->  |  Handtraps ratio:   6.83%
+  -->  |  Number of combos:  0
+__________________________________________________________Hand #41
+
+  -->  |  Monsters ratio:    63.81%
+  -->  |  Spells ratio:      27.62%
+  -->  |  Traps ratio:       8.57%
+  -->  |  Handtraps ratio:   6.67%
+  -->  |  Number of combos:  0
+__________________________________________________________Hand #42
+
+  -->  |  Monsters ratio:    63.26%
+  -->  |  Spells ratio:      27.91%
+  -->  |  Traps ratio:       8.84%
+  -->  |  Handtraps ratio:   6.98%
+  -->  |  Number of combos:  0
+__________________________________________________________Hand #43
+
+  -->  |  Monsters ratio:    63.64%
+  -->  |  Spells ratio:      27.73%
+  -->  |  Traps ratio:       8.64%
+  -->  |  Handtraps ratio:   7.27%
+  -->  |  Number of combos:  0
+__________________________________________________________Hand #44
+
+  -->  |  Monsters ratio:    64.0%
+  -->  |  Spells ratio:      27.56%
+  -->  |  Traps ratio:       8.44%
+  -->  |  Handtraps ratio:   7.56%
+  -->  |  Number of combos:  1
+__________________________________________________________Hand #45
+
+  -->  |  Monsters ratio:    64.35%
+  -->  |  Spells ratio:      27.39%
+  -->  |  Traps ratio:       8.26%
+  -->  |  Handtraps ratio:   7.39%
+  -->  |  Number of combos:  0
+__________________________________________________________Hand #46
+
+  -->  |  Monsters ratio:    64.26%
+  -->  |  Spells ratio:      27.66%
+  -->  |  Traps ratio:       8.09%
+  -->  |  Handtraps ratio:   7.23%
+  -->  |  Number of combos:  0
+__________________________________________________________Hand #47
+
+  -->  |  Monsters ratio:    64.17%
+  -->  |  Spells ratio:      27.92%
+  -->  |  Traps ratio:       7.92%
+  -->  |  Handtraps ratio:   7.08%
+  -->  |  Number of combos:  2
+__________________________________________________________Hand #48
+
+  -->  |  Monsters ratio:    63.67%
+  -->  |  Spells ratio:      28.16%
+  -->  |  Traps ratio:       8.16%
+  -->  |  Handtraps ratio:   7.35%
+  -->  |  Number of combos:  0
+__________________________________________________________Hand #49
+
+  -->  |  Monsters ratio:    64.0%
+  -->  |  Spells ratio:      28.0%
+  -->  |  Traps ratio:       8.0%
+  -->  |  Handtraps ratio:   7.2%
+  -->  |  Number of combos:  0
+__________________________________________________________Hand #50
+
+  -->  |  Monsters ratio:    63.53%
+  -->  |  Spells ratio:      28.24%
+  -->  |  Traps ratio:       8.24%
+  -->  |  Handtraps ratio:   7.06%
+  -->  |  Number of combos:  0
+__________________________________________________________Hand #51
+
+  -->  |  Monsters ratio:    63.85%
+  -->  |  Spells ratio:      27.69%
+  -->  |  Traps ratio:       8.46%
+  -->  |  Handtraps ratio:   7.31%
+  -->  |  Number of combos:  0
+__________________________________________________________Hand #52
+
+  -->  |  Monsters ratio:    63.4%
+  -->  |  Spells ratio:      27.55%
+  -->  |  Traps ratio:       9.06%
+  -->  |  Handtraps ratio:   7.55%
+  -->  |  Number of combos:  0
+__________________________________________________________Hand #53
+
+  -->  |  Monsters ratio:    63.7%
+  -->  |  Spells ratio:      27.41%
+  -->  |  Traps ratio:       8.89%
+  -->  |  Handtraps ratio:   7.41%
+  -->  |  Number of combos:  0
+__________________________________________________________Hand #54
+
+  -->  |  Monsters ratio:    64.36%
+  -->  |  Spells ratio:      26.91%
+  -->  |  Traps ratio:       8.73%
+  -->  |  Handtraps ratio:   7.27%
+  -->  |  Number of combos:  0
+__________________________________________________________Hand #55
+
+  -->  |  Monsters ratio:    64.29%
+  -->  |  Spells ratio:      26.79%
+  -->  |  Traps ratio:       8.93%
+  -->  |  Handtraps ratio:   7.5%
+  -->  |  Number of combos:  0
+__________________________________________________________Hand #56
+
+  -->  |  Monsters ratio:    64.21%
+  -->  |  Spells ratio:      27.02%
+  -->  |  Traps ratio:       8.77%
+  -->  |  Handtraps ratio:   7.37%
+  -->  |  Number of combos:  0
+__________________________________________________________Hand #57
+
+  -->  |  Monsters ratio:    64.48%
+  -->  |  Spells ratio:      26.9%
+  -->  |  Traps ratio:       8.62%
+  -->  |  Handtraps ratio:   7.24%
+  -->  |  Number of combos:  1
+__________________________________________________________Hand #58
+
+  -->  |  Monsters ratio:    64.75%
+  -->  |  Spells ratio:      26.78%
+  -->  |  Traps ratio:       8.47%
+  -->  |  Handtraps ratio:   7.12%
+  -->  |  Number of combos:  0
+__________________________________________________________Hand #59
+
+  -->  |  Monsters ratio:    65.0%
+  -->  |  Spells ratio:      26.67%
+  -->  |  Traps ratio:       8.33%
+  -->  |  Handtraps ratio:   7.0%
+  -->  |  Number of combos:  0
+__________________________________________________________Hand #60
+
+  -->  |  Monsters ratio:    64.92%
+  -->  |  Spells ratio:      26.89%
+  -->  |  Traps ratio:       8.2%
+  -->  |  Handtraps ratio:   6.89%
+  -->  |  Number of combos:  0
+__________________________________________________________Hand #61
+
+  -->  |  Monsters ratio:    65.16%
+  -->  |  Spells ratio:      26.77%
+  -->  |  Traps ratio:       8.06%
+  -->  |  Handtraps ratio:   7.1%
+  -->  |  Number of combos:  0
+__________________________________________________________Hand #62
+
+  -->  |  Monsters ratio:    65.4%
+  -->  |  Spells ratio:      26.35%
+  -->  |  Traps ratio:       8.25%
+  -->  |  Handtraps ratio:   7.3%
+  -->  |  Number of combos:  0
+__________________________________________________________Hand #63
+
+  -->  |  Monsters ratio:    65.62%
+  -->  |  Spells ratio:      26.25%
+  -->  |  Traps ratio:       8.12%
+  -->  |  Handtraps ratio:   7.19%
+  -->  |  Number of combos:  1
+__________________________________________________________Hand #64
+
+  -->  |  Monsters ratio:    64.92%
+  -->  |  Spells ratio:      27.08%
+  -->  |  Traps ratio:       8.0%
+  -->  |  Handtraps ratio:   7.08%
+  -->  |  Number of combos:  0
+__________________________________________________________Hand #65
+
+  -->  |  Monsters ratio:    65.15%
+  -->  |  Spells ratio:      26.97%
+  -->  |  Traps ratio:       7.88%
+  -->  |  Handtraps ratio:   6.97%
+  -->  |  Number of combos:  0
+__________________________________________________________Hand #66
+
+  -->  |  Monsters ratio:    65.37%
+  -->  |  Spells ratio:      26.57%
+  -->  |  Traps ratio:       8.06%
+  -->  |  Handtraps ratio:   6.87%
+  -->  |  Number of combos:  0
+__________________________________________________________Hand #67
+
+  -->  |  Monsters ratio:    65.59%
+  -->  |  Spells ratio:      26.47%
+  -->  |  Traps ratio:       7.94%
+  -->  |  Handtraps ratio:   7.06%
+  -->  |  Number of combos:  0
+__________________________________________________________Hand #68
+
+  -->  |  Monsters ratio:    65.51%
+  -->  |  Spells ratio:      26.67%
+  -->  |  Traps ratio:       7.83%
+  -->  |  Handtraps ratio:   6.96%
+  -->  |  Number of combos:  0
+__________________________________________________________Hand #69
+
+  -->  |  Monsters ratio:    65.43%
+  -->  |  Spells ratio:      26.86%
+  -->  |  Traps ratio:       7.71%
+  -->  |  Handtraps ratio:   6.86%
+  -->  |  Number of combos:  0
+__________________________________________________________Hand #70
+
+  -->  |  Monsters ratio:    65.63%
+  -->  |  Spells ratio:      26.76%
+  -->  |  Traps ratio:       7.61%
+  -->  |  Handtraps ratio:   7.04%
+  -->  |  Number of combos:  0
+__________________________________________________________Hand #71
+
+  -->  |  Monsters ratio:    66.11%
+  -->  |  Spells ratio:      26.39%
+  -->  |  Traps ratio:       7.5%
+  -->  |  Handtraps ratio:   7.22%
+  -->  |  Number of combos:  0
+__________________________________________________________Hand #72
+
+  -->  |  Monsters ratio:    66.03%
+  -->  |  Spells ratio:      26.58%
+  -->  |  Traps ratio:       7.4%
+  -->  |  Handtraps ratio:   7.12%
+  -->  |  Number of combos:  2
+__________________________________________________________Hand #73
+
+  -->  |  Monsters ratio:    65.95%
+  -->  |  Spells ratio:      26.76%
+  -->  |  Traps ratio:       7.3%
+  -->  |  Handtraps ratio:   7.03%
+  -->  |  Number of combos:  2
+__________________________________________________________Hand #74
+
+  -->  |  Monsters ratio:    66.4%
+  -->  |  Spells ratio:      26.4%
+  -->  |  Traps ratio:       7.2%
+  -->  |  Handtraps ratio:   7.47%
+  -->  |  Number of combos:  0
+__________________________________________________________Hand #75
+
+  -->  |  Monsters ratio:    66.05%
+  -->  |  Spells ratio:      26.58%
+  -->  |  Traps ratio:       7.37%
+  -->  |  Handtraps ratio:   7.37%
+  -->  |  Number of combos:  0
+__________________________________________________________Hand #76
+
+  -->  |  Monsters ratio:    65.45%
+  -->  |  Spells ratio:      27.27%
+  -->  |  Traps ratio:       7.27%
+  -->  |  Handtraps ratio:   7.27%
+  -->  |  Number of combos:  0
+__________________________________________________________Hand #77
+
+  -->  |  Monsters ratio:    65.38%
+  -->  |  Spells ratio:      27.44%
+  -->  |  Traps ratio:       7.18%
+  -->  |  Handtraps ratio:   7.18%
+  -->  |  Number of combos:  0
+__________________________________________________________Hand #78
+
+  -->  |  Monsters ratio:    65.32%
+  -->  |  Spells ratio:      27.59%
+  -->  |  Traps ratio:       7.09%
+  -->  |  Handtraps ratio:   7.09%
+  -->  |  Number of combos:  2
+__________________________________________________________Hand #79
+
+  -->  |  Monsters ratio:    65.0%
+  -->  |  Spells ratio:      27.75%
+  -->  |  Traps ratio:       7.25%
+  -->  |  Handtraps ratio:   7.0%
+  -->  |  Number of combos:  0
+__________________________________________________________Hand #80
+
+  -->  |  Monsters ratio:    64.94%
+  -->  |  Spells ratio:      27.41%
+  -->  |  Traps ratio:       7.65%
+  -->  |  Handtraps ratio:   6.91%
+  -->  |  Number of combos:  0
+__________________________________________________________Hand #81
+
+  -->  |  Monsters ratio:    64.88%
+  -->  |  Spells ratio:      27.32%
+  -->  |  Traps ratio:       7.8%
+  -->  |  Handtraps ratio:   7.07%
+  -->  |  Number of combos:  0
+__________________________________________________________Hand #82
+
+  -->  |  Monsters ratio:    65.06%
+  -->  |  Spells ratio:      27.23%
+  -->  |  Traps ratio:       7.71%
+  -->  |  Handtraps ratio:   7.23%
+  -->  |  Number of combos:  1
+__________________________________________________________Hand #83
+
+  -->  |  Monsters ratio:    65.24%
+  -->  |  Spells ratio:      26.9%
+  -->  |  Traps ratio:       7.86%
+  -->  |  Handtraps ratio:   7.14%
+  -->  |  Number of combos:  0
+__________________________________________________________Hand #84
+
+  -->  |  Monsters ratio:    65.18%
+  -->  |  Spells ratio:      27.06%
+  -->  |  Traps ratio:       7.76%
+  -->  |  Handtraps ratio:   7.06%
+  -->  |  Number of combos:  0
+__________________________________________________________Hand #85
+
+  -->  |  Monsters ratio:    65.12%
+  -->  |  Spells ratio:      26.98%
+  -->  |  Traps ratio:       7.91%
+  -->  |  Handtraps ratio:   6.98%
+  -->  |  Number of combos:  0
+__________________________________________________________Hand #86
+
+  -->  |  Monsters ratio:    64.83%
+  -->  |  Spells ratio:      27.36%
+  -->  |  Traps ratio:       7.82%
+  -->  |  Handtraps ratio:   7.13%
+  -->  |  Number of combos:  0
+__________________________________________________________Hand #87
+
+  -->  |  Monsters ratio:    64.77%
+  -->  |  Spells ratio:      27.5%
+  -->  |  Traps ratio:       7.73%
+  -->  |  Handtraps ratio:   7.05%
+  -->  |  Number of combos:  0
+__________________________________________________________Hand #88
+
+  -->  |  Monsters ratio:    64.72%
+  -->  |  Spells ratio:      27.42%
+  -->  |  Traps ratio:       7.87%
+  -->  |  Handtraps ratio:   7.19%
+  -->  |  Number of combos:  2
+__________________________________________________________Hand #89
+
+  -->  |  Monsters ratio:    64.89%
+  -->  |  Spells ratio:      27.33%
+  -->  |  Traps ratio:       7.78%
+  -->  |  Handtraps ratio:   7.33%
+  -->  |  Number of combos:  1
+__________________________________________________________Hand #90
+
+  -->  |  Monsters ratio:    64.62%
+  -->  |  Spells ratio:      27.47%
+  -->  |  Traps ratio:       7.91%
+  -->  |  Handtraps ratio:   7.47%
+  -->  |  Number of combos:  0
+__________________________________________________________Hand #91
+
+  -->  |  Monsters ratio:    65.0%
+  -->  |  Spells ratio:      27.17%
+  -->  |  Traps ratio:       7.83%
+  -->  |  Handtraps ratio:   7.39%
+  -->  |  Number of combos:  1
+__________________________________________________________Hand #92
+
+  -->  |  Monsters ratio:    64.52%
+  -->  |  Spells ratio:      27.53%
+  -->  |  Traps ratio:       7.96%
+  -->  |  Handtraps ratio:   7.31%
+  -->  |  Number of combos:  0
+__________________________________________________________Hand #93
+
+  -->  |  Monsters ratio:    64.68%
+  -->  |  Spells ratio:      27.23%
+  -->  |  Traps ratio:       8.09%
+  -->  |  Handtraps ratio:   7.23%
+  -->  |  Number of combos:  0
+__________________________________________________________Hand #94
+
+  -->  |  Monsters ratio:    65.05%
+  -->  |  Spells ratio:      26.95%
+  -->  |  Traps ratio:       8.0%
+  -->  |  Handtraps ratio:   7.16%
+  -->  |  Number of combos:  6
+__________________________________________________________Hand #95
+
+  -->  |  Monsters ratio:    65.0%
+  -->  |  Spells ratio:      27.08%
+  -->  |  Traps ratio:       7.92%
+  -->  |  Handtraps ratio:   7.08%
+  -->  |  Number of combos:  0
+__________________________________________________________Hand #96
+
+  -->  |  Monsters ratio:    64.95%
+  -->  |  Spells ratio:      27.22%
+  -->  |  Traps ratio:       7.84%
+  -->  |  Handtraps ratio:   7.01%
+  -->  |  Number of combos:  0
+__________________________________________________________Hand #97
+
+  -->  |  Monsters ratio:    64.9%
+  -->  |  Spells ratio:      27.14%
+  -->  |  Traps ratio:       7.96%
+  -->  |  Handtraps ratio:   7.14%
+  -->  |  Number of combos:  0
+__________________________________________________________Hand #98
+
+  -->  |  Monsters ratio:    64.44%
+  -->  |  Spells ratio:      27.47%
+  -->  |  Traps ratio:       8.08%
+  -->  |  Handtraps ratio:   7.07%
+  -->  |  Number of combos:  0
+__________________________________________________________Hand #99
+
+  -->  |  Monsters ratio:    64.6%
+  -->  |  Spells ratio:      27.4%
+  -->  |  Traps ratio:       8.0%
+  -->  |  Handtraps ratio:   7.2%
+  -->  |  Number of combos:  1
+
+
+
+__________________________________________________________Testhands completed.
+  ---->  |  Average monsters per hand ratio:      63.81%
+  ---->  |  Average spells per hand ratio:        28.38%
+  ---->  |  Average traps per hand ratio:         7.81%
+  ---->  |  Average handtraps per hand ratio:     6.37%
+  ---->  |  Average combos per hand ratio:        0.27%
+  ---->  |  Total number of combos in all hands:  27
+
+__________________________________________________________Achieved Combos:
+Combo 1                       : achieved in 0 out of 100 testhands. (0%)
+Combo 2                       : achieved in 0 out of 100 testhands. (0%)
+Combo 3                       : achieved in 0 out of 100 testhands. (0%)
+Combo 4                       : achieved in 0 out of 100 testhands. (0%)
+Combo 5                       : achieved in 1 out of 100 testhands. (1%)
+Combo 6                       : achieved in 0 out of 100 testhands. (0%)
+Combo 7                       : achieved in 0 out of 100 testhands. (0%)
+Combo 8                       : achieved in 0 out of 100 testhands. (0%)
+Combo 9                       : achieved in 0 out of 100 testhands. (0%)
+Combo 10                      : achieved in 1 out of 100 testhands. (1%)
+Combo 11                      : achieved in 0 out of 100 testhands. (0%)
+Combo 12                      : achieved in 0 out of 100 testhands. (0%)
+Combo 13                      : achieved in 0 out of 100 testhands. (0%)
+Combo 14                      : achieved in 2 out of 100 testhands. (2%)
+Combo 15                      : achieved in 1 out of 100 testhands. (1%)
+Combo 16                      : achieved in 1 out of 100 testhands. (1%)
+Combo 17                      : achieved in 1 out of 100 testhands. (1%)
+Combo 18                      : achieved in 4 out of 100 testhands. (4%)
+Combo 19                      : achieved in 2 out of 100 testhands. (2%)
+Combo 20                      : achieved in 5 out of 100 testhands. (5%)
+Combo 21                      : achieved in 9 out of 100 testhands. (9%)
+Combo 22                      : achieved in 0 out of 100 testhands. (0%)
+Combo 22                      : achieved in 0 out of 100 testhands. (0%)
